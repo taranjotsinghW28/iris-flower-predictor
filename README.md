@@ -8,7 +8,7 @@ A production-ready machine learning web application that predicts Iris flower sp
 
 ## 🎯 Live Demo
 
-👉 [Click here to try the app](https://your-app-url.streamlit.app)
+👉 [[Click here to try the app](https://your-app-url.streamlit.app)](https://iris-flower-predictor-2teh4rcqndagl2sqhikwe3.streamlit.app/)
 
 ## 📊 Features
 
