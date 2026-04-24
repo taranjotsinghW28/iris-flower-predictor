@@ -20,8 +20,8 @@ mlruns/
 mlruns.db
 *.db
 
-# Model files (optional - can regenerate)
-*.pkl
+# Model files - REMOVED the block for .pkl files
+# Only block .joblib, keep .pkl for deployment
 *.joblib
 
 # Jupyter Notebook

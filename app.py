@@ -10,7 +10,12 @@ st.set_page_config(
     page_icon="🌸",
     layout="wide"
 )
-
+hide_streamlit_footer = """
+    <style>
+    footer {visibility: hidden;}
+    </style>
+    """
+st.markdown(hide_streamlit_footer, unsafe_allow_html=True)
 # Title and description
 st.title("🌸 Iris Flower Species Predictor")
 st.markdown("""
